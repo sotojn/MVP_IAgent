@@ -1,0 +1,26 @@
+{
+  "name": "mvp_iagent",
+  "version": "1.0.0",
+  "description": "package for react, express, postgres. Overall PERN stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sotojn/MVP_IAgent.git"
+  },
+  "author": "Joseph Soto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sotojn/MVP_IAgent/issues"
+  },
+  "homepage": "https://github.com/sotojn/MVP_IAgent#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
